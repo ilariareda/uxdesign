@@ -122,7 +122,7 @@ section p {
   margin-top: 25px;
   color: white;
   font-weight: 500;
-  background-color: #5fcfb3;
+  background-color: #9ac1ba;
   width: 150px;
   border-radius: 50px;
   height: 40px;
@@ -131,7 +131,7 @@ section p {
   }
 
   .seefolio:hover {
-    background-color: #ba9dc9;
+    background-color: #e29d88;
     outline: none;
     border: none;
     }
